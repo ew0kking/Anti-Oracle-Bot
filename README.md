@@ -109,3 +109,4 @@ EmpatheticDialogues, CACTUS, and psychotherapy transcript datasets
 
 University of Helsinki & Reaktor Innovations—Building AI course guidance
 
+"C:\Users\benja\OneDrive\Desktop\MidJourney\oracle.png"
